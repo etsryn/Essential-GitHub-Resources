@@ -3,7 +3,7 @@
 A curated collection of essential GitHub repositories for developers, covering software development, data science, web development, and more. This repository provides quick access to valuable tools and resources to enhance your projects and workflow. Contributions of additional useful links are welcome!
 
 ## Table of Contents
-- [Installation](https://www.youtube.com)
+- <a href="https://www.youtube.com" target="_blank">Installation</a>
 - [Usage](#usage)
 - [Categories](#categories)
   - [Software Development](#software-development)
